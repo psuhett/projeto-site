@@ -1,0 +1,6 @@
+@import "global/global.css";
+@import "global/utilitarios.css";
+@import "menu/menu.css";
+@import "./main/main.css";
+@import "./team/team.css";
+@import "./about/about.css";

@@ -1,0 +1,39 @@
+.menu-container {
+    justify-content: space-between;
+    padding: 13px 0;
+    display: flex;
+}
+
+.menu-logo a { 
+    color: white;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+.menu .btn-1 {
+    display: inline-block;
+    color: white;
+    margin: 0 10px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu .btn-1:hover {
+    color: #47b2e4;
+    transition: 0.3s;
+}
+
+.menu .btn-2 {
+    color: white;
+    border: 2px solid #47b2e4;
+    border-radius: 20px;
+    padding: 8px 18px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.menu .btn-2:hover{
+    background-color: #36a6da;
+}

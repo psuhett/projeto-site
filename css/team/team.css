@@ -1,0 +1,49 @@
+.bg-team{
+    background-color: #f3f3f3;
+}
+
+.team {
+    padding: 30px 50px;
+}
+
+.team-item {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: space-evenly;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Fredoka One', cursive;
+}
+
+.team-item li:hover {
+    cursor: default;
+    font-size: 21px;
+}
+
+/*ANIMAÇÕES*/
+
+.cor-1:hover{
+    color: #009797;
+    transition: 0.2s ease-in-out;
+}
+.cor-2:hover{
+    color: #855600;
+    transition: 0.2s ease-in-out;
+}
+.cor-3:hover{
+    color: #a70000;
+    transition: 0.2s ease-in-out;
+}
+.cor-4:hover{
+    color: #c04e74;
+    transition: 0.2s ease-in-out;
+}
+.cor-5:hover{
+    color: #ffa8b6;
+    transition: 0.2s ease-in-out;
+}
+.cor-6:hover{
+    color: #990199;
+    transition: 0.2s ease-in-out;
+}
